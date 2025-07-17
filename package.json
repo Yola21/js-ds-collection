@@ -24,10 +24,10 @@
   ],
   "repository": {
   "type": "git",
-  "url": "https://github.com/Yola21/ds-js"
+  "url": "https://github.com/Yola21/js-ds-collection"
   },
   "bugs": {
-    "url": "https://github.com/Yola21/ds-js/issues"
+    "url": "https://github.com/Yola21/js-ds-collection/issues"
   },
-  "homepage": "https://github.com/Yola21/ds-js#readme"
+  "homepage": "https://github.com/Yola21/js-ds-collection#readme"
 }

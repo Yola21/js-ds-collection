@@ -1,9 +1,9 @@
-# ds-js
+# js-ds-collection
 
 > A lightweight, modular, and TypeScript-first collection of commonly used data structures in JavaScript, built for learning, practice, and production use.
 
 [![npm version](https://img.shields.io/npm/v/ds-js)](https://www.npmjs.com/package/ds-js)
-[![GitHub license](https://img.shields.io/github/license/yash-khorja/ds-js)](https://github.com/yash-khorja/ds-js/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/yash-khorja/ds-js)](https://github.com/Yola21/js-ds-collection/blob/main/LICENSE)
 
 ---
 
@@ -20,4 +20,4 @@
 ## 📦 Installation
 
 ```bash
-npm install ds-js
+npm install js-ds-collection
