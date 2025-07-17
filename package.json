@@ -1,0 +1,29 @@
+{
+  "name": "ds-js",
+  "version": "1.0.0",
+  "description": "A collection of clean, testable data structures in modern TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "author": "Yashkumar Khorja",
+  "license": "MIT",
+  "keywords": [
+    "data-structures",
+    "typescript",
+    "algorithms",
+    "stack",
+    "queue",
+    "heap",
+    "tree",
+    "trie",
+    "linkedlist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yash-khorja/ds-js"
+  }
+}
