@@ -1,5 +1,5 @@
 {
-  "name": "ds-js",
+  "name": "js-ds-collection",
   "version": "1.0.0",
   "description": "A collection of clean, testable data structures in modern TypeScript",
   "main": "dist/index.js",
