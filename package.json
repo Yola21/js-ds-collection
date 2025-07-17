@@ -1,10 +1,12 @@
 {
   "name": "js-ds-collection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of clean, testable data structures in modern TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "vitest run"
@@ -23,8 +25,8 @@
     "linkedlist"
   ],
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Yola21/js-ds-collection"
+    "type": "git",
+    "url": "https://github.com/Yola21/js-ds-collection"
   },
   "bugs": {
     "url": "https://github.com/Yola21/js-ds-collection/issues"
