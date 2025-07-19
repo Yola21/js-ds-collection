@@ -1,5 +1,5 @@
 // src/structures/MaxHeap.ts
-import { Heap } from '../Heap';
+import { Heap } from '../Heap/index.js';
 
 /**
  * A MaxHeap where the largest value has the highest priority.

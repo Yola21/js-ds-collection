@@ -1,5 +1,5 @@
 // src/structures/MinHeap.ts
-import { Heap } from "../Heap";
+import { Heap } from "../Heap/index.js";
 
 
 /**

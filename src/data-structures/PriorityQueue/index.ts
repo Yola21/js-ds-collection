@@ -1,5 +1,5 @@
 // src/structures/PriorityQueue.ts
-import { Heap } from '../Heap';
+import { Heap } from '../Heap/index.js';
 
 /**
  * A flexible PriorityQueue built on top of a heap.
