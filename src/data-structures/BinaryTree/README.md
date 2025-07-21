@@ -1,4 +1,4 @@
-# 🌲 Binary Tree – `js-ds-collection`
+# Binary Tree
 
 A generic and minimal binary tree data structure in TypeScript that supports recursive DFS traversals, BFS traversal, and basic utilities like height and size calculation. Ideal for learning, solving LeetCode-style problems, or integrating into larger tree-based algorithms.
 
