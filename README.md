@@ -2,7 +2,7 @@
 
 > A lightweight, modular, and TypeScript-first collection of commonly used data structures in JavaScript, built for learning, practice, and production use.
 
-[![npm version](https://img.shields.io/npm/v/js-ds-collection)](https://www.npmjs.com/package/ds-js)
+[![npm version](https://img.shields.io/npm/v/js-ds-collection)](https://www.npmjs.com/package/js-ds-collection)
 [![GitHub license](https://img.shields.io/github/license/Yola21/js-ds-colelction)](https://github.com/Yola21/js-ds-collection/blob/main/LICENSE)
 
 ---
@@ -33,6 +33,7 @@ npm install js-ds-collection
 | `Dequeue<T>`          | Insert/remove from both ends               | [📘 Dequeue Docs](./src/data-structures/Dequeue/README.md)                   |
 | `LinkedList<T>`       | Singly linked list                         | [📘 LinkedList Docs](./src/data-structures/LinkedList/README.md)             |
 | `DoublyLinkedList<T>` | Bi-directional linked list                 | [📘 DoublyLinkedList Docs](./src/data-structures/DoublyLinkedList/README.md) |
+| `CircularLinkedList<T>` | Circular linked list                 | [📘 DoublyLinkedList Docs](./src/data-structures/CircularLinkedList/README.md) |
 | `Heap<T>`             | Generic min/max heap via comparator        | [📘 Heap Docs](./src/data-structures/Heap/README.md)                         |
 | `UnionFind`           | Disjoint-set with union by rank/size       | [📘 UnionFind Docs](./src/data-structures/Disjoint-Set-Union/README.md)               |
 | `SegmentTree<T>`      | Fast range queries and point updates       | [📘 SegmentTree Docs](./src/data-structures/Segment-Tree/README.md)           |
